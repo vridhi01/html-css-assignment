@@ -1,0 +1,158 @@
+body {
+    overflow-x: hidden;
+}
+
+.navigation {
+    background-color: #000000e6;
+    height: 9vh;
+    width: 200%;
+    margin-left: -10px;
+    margin-top: -10px;
+}
+
+.navigationlink1 {
+    color: #9E9E9E;
+    display: inline;
+    font-size: 19px;
+    float: left;
+    margin-top: 2px;
+    margin-left: 133px;
+    padding: 10px;
+    text-decoration: none;
+    overflow: hidden;
+}
+
+.navigationlink2 {
+    color: #9e9e9eeb;
+    display: inline;
+    font-size: 17px;
+    float: left;
+    margin-left: 10px;
+    margin-top: 2px;
+    padding: 10px;
+    text-decoration: none;
+}
+
+.navigationlink3 {
+    color: #9e9e9eeb;
+    display: inline;
+    font-size: 17px;
+    float: left;
+    margin-left: 10px;
+    margin-top: 2px;
+    padding: 10px;
+    text-decoration: none;
+}
+
+.navigationlink4 {
+    color: #9e9e9eeb;
+    display: inline;
+    font-size: 17px;
+    float: left;
+    margin-left: 10px;
+    margin-top: 2px;
+    padding: 10px;
+    text-decoration: none;
+}
+
+li {
+    list-style-type: none;
+}
+
+.pstyle {
+    display: inline;
+    color: #808080d9;
+    font-size: 25px;
+    font-weight: bold;
+    font-family: 'Roboto', sans-serif;
+}
+
+.hstyle {
+    display: inline;
+    font-size: 34px;
+    color: #000000b8;
+    font-family: 'Roboto', sans-serif;
+}
+
+.styleheadingpara {
+    margin-top: 45px;
+    margin-left: 133px;
+}
+
+.line {
+    content: '';
+    display: inline-block;
+    width: 88%;
+    height: 100%;
+    margin-right: -100%;
+    border-bottom: 1px solid #00000040;
+    margin-left: 133px;
+}
+
+.firstrow {
+    width: calc(100%/3);
+    width: 100%;
+    margin: 0 auto;
+    margin-top: 5px;
+    height: 250px;
+    margin-left: 133px;
+}
+
+.frstdiv1 {
+    display: inline;
+    float: left;
+    width: 28%;
+    padding: 10px;
+}
+
+.frstdiv2 {
+    display: inline;
+    float: left;
+    width: 28%;
+    padding: 10px;
+}
+
+.frstdiv3 {
+    display: inline;
+    float: left;
+    width: 28%;
+    padding: 10px;
+}
+
+.imgstyle {
+    width: 98%;
+    height: 187px;
+}
+
+.headingstyle {
+    font-size: 27px;
+    color: #03A9F4;
+    font-weight: bold;
+    margin-top: 6px;
+}
+
+.paragraphstyle {
+    font-size: 17px;
+    color: black;
+    margin-top: -20px;
+    font-family: 'Roboto', sans-serif;
+}
+
+.footer {
+    width: 100%;
+    clear: both;
+    position: relative;
+    margin-top: -200px !important;
+}
+
+.copyright {
+    height: 68px;
+    margin-left: 133px;
+    margin-top: 71px;
+}
+
+
+}
+.copyrighttext {
+    margin-top: 51px;
+}
